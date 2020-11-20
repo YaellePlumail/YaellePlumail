@@ -3,7 +3,7 @@
 Bienvenue sur mon GitHub !
 
  - 👩🏽‍💻 Je m'appelle Yaëlle et j'ai 19 ans
- - 📚 Je suis étudiante en 1ère année de Bacgelor Chef de Projet à Digital Campus Nantes
+ - 📚 Je suis étudiante en 1ère année de Bachelor Chef de Projet à Digital Campus Nantes
  - 💻 Actuellement à la recherche d'un stage dans le domaine du digital à compter de mi-avril 2021 pour un minimum de 2 mois !
  - 📄 Mon [CV](https://github.com/YaellePlumail/YaellePlumail/raw/main/CV%202020.pdf)
  
