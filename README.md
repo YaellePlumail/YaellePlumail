@@ -9,4 +9,4 @@ Bienvenue sur mon GitHub !
  Retrouvez moi sur [LinkdeIn](https://www.linkedin.com/in/yaëlle-plumail-5b76481b7/)
  
  
-<img width="100%" src=https://gph.is/st/MW0zRJY>
+<img width="30%" src=https://media.giphy.com/media/iJPWKfXhged2BkmhTS/giphy.gif>
