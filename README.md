@@ -1,3 +1,3 @@
-### Hey 👋🏼
+## Hey 👋🏼
 
-# - 🌱 I’m currently learning Digital Campus Nantes
+ - 🌱 I’m currently learning Digital Campus Nantes
