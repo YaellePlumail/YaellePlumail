@@ -1,7 +1,11 @@
 ## Hey 👋🏼
 
-Welcome to my GitHub
+Bienvenue sur mon GitHub !
 
- - 👩🏽‍💻 My name is Yaëlle and i have 19 yo
- - 📚 I’m currently studying at Digital Campus Nantes
+ - 👩🏽‍💻 Je m'appelle Yaëlle et j'ai 19 ans
+ - 📚 J'étudie actuellement à Digital Campus Nantes
  -
+ Mon [LinkdeIn](https://www.linkedin.com/in/yaëlle-plumail-5b76481b7/)
+ 
+ 
+<img width="100%" src=
