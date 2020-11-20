@@ -7,4 +7,4 @@ Bienvenue sur mon GitHub !
  
  Retrouvez moi sur [LinkdeIn](https://www.linkedin.com/in/yaëlle-plumail-5b76481b7/)
  
-<img width="30%" src=https://media.giphy.com/media/iJPWKfXhged2BkmhTS/giphy.gif>
+<img width="30%" src=https://www.pinterest.fr/pin/710231803726642839/>
