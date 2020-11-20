@@ -7,5 +7,5 @@ Bienvenue sur mon GitHub !
  
  Retrouvez moi sur [LinkdeIn](https://www.linkedin.com/in/yaëlle-plumail-5b76481b7/)
  
-<img width="30%" src=https://www.pinterest.fr/pin/710231803726642839/>
+<img width="30%" src=https://lovelyrefinement.com/wp-content/uploads/2019/04/Things-to-remember.jpg>
 
