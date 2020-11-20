@@ -1,3 +1,4 @@
 ## Hey 👋🏼
 
- - 🌱 I’m currently learning Digital Campus Nantes
+ - 👩🏽‍💻 I'm Yaëlle 
+ - 📚 I’m currently studying at Digital Campus Nantes
